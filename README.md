@@ -12,7 +12,7 @@ El objetivo del Solitario es organizar todas las cartas en cuatro pilas, una par
     - El resto de cartas se colocan en un mazo, de donde se pueden robar cartas.
 
 2. **Movimientos Permitidos:**
-    - Puedes mover una carta descubierta a otra columna, si es de color opuesto y de un valor inmdeiatamente superior.
+    - Puedes mover una carta descubierta a otra columna, si es de color opuesto y de un valor inmediatamente superior.
     - Se pueden mover secuencias de cartas en orden descendente entre columnas.
     - Un espacio vacio solo puede ser ocupado por un Rey o una secuencia que inicie con un Rey.
     - Se pueden mover cartas a las pilas finales, en orden ascendente según el palo.
